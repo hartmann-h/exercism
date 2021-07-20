@@ -8,5 +8,5 @@ def convert(number):
         ans += "Plong"
     if not ans:
         return str(number)
-    else:
-        return ans
+
+    return ans
